@@ -32,6 +32,3 @@ To run the tests, use:
 ```sh
 python -m unittest discover tests
 ```
-
-## License
-This project is licensed under the MIT License.
